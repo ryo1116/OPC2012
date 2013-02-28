@@ -1,0 +1,33 @@
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\bin\Debug\YouTube.xml
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\YouTube.vbproj.GenerateResource.Cache
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\YouTube.xml
+C:\Users\eguchi\Documents\Visual Studio 2008\Projects\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\YouTube.xml
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Debug\YouTube.xml
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\ResolveAssemblyReference.cache
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\WindowsApplication1.Form1.resources
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\WindowsApplication1.Resources.resources
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Debug\YouTube.vbproj.GenerateResource.Cache
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.xml
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.xml
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\bin\Debug\YouTube.xml
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\WindowsApplication1.Form1.resources
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\WindowsApplication1.Resources.resources
+C:\Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Debug\YouTube.vbproj.GenerateResource.Cache

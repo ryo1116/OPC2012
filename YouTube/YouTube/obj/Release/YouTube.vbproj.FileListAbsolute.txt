@@ -1,0 +1,13 @@
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Release\YouTube.exe
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Release\YouTube.pdb
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\bin\Release\YouTube.xml
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\ResolveAssemblyReference.cache
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\WindowsApplication1.Form1.resources
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\WindowsApplication1.Resources.resources
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\YouTube.vbproj.GenerateResource.Cache
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\YouTube.exe
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\YouTube.xml
+C:\_eguchi\My Dropbox\VisualBasic\vb2008\YouTube\YouTube\obj\Release\YouTube.pdb
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Release\YouTube.exe
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Release\YouTube.xml
+C:\My Dropbox\2012\分野\OPC\Youtube\YouTube\YouTube\obj\Release\YouTube.pdb
